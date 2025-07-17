@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Ferchichi 👋
 
-I'm a passionate Python and JavaScript developer specializing in full stack / backend development, APIs, and web apps.
+I'm a passionate Python and JavaScript developer with a passion for backend developement , data engineering and  AI applications.
 
 ## 🚀 Skills
 
@@ -8,11 +8,13 @@ I'm a passionate Python and JavaScript developer specializing in full stack / ba
 - JavaScript, Node , React  , Angular
 - PostgreSQL, Prisma ORM , SQL Alchemy 
 - Docker, REST APIs  
-- Data Analysis & Transformation
+- Data Pipelines & Transformation
 - Scripting & Automation   
 
 ## 📂 Selected Projects
-
+- **Fuel Cost Optimizer** — A full-stack route planner that calculates the cheapest refueling stops along a road trip using FastAPI and Leaflet.js.  
+  [🔗 Repo Link](https://github.com/AhmedFerchich-i/fuel-cost-optimizer)
+  
 - **Robust SFTP Transfer** — A fault-tolerant Python script for secure file uploads via SFTP, featuring auto-retry and reconnect logic.  
   [🔗 Repo Link](https://github.com/AhmedFerchich-i/Robust-Sftp-Transfer)
 
