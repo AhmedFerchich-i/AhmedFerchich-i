@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Ferchichi 👋
 
-I'm a passionate Python and JavaScript developer with a passion for backend developement , data engineering and  AI applications.
+I'm a passionate Python and JavaScript developer with a passion for full stack/backend developement , data engineering and  AI applications.
 
 ## 🚀 Skills
 
