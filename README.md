@@ -13,7 +13,7 @@ I'm a passionate Python and JavaScript developer with a passion for backend deve
 
 ## 📂 Selected Projects
 - **Fuel Cost Optimizer** — A full-stack route planner that calculates the cheapest refueling stops along a road trip using Django Rest Framework and Leaflet.js.  
-  [🔗 Repo Link](https://github.com/AhmedFerchich-i/fuel-cost-optimizer)
+  [🔗 Repo Link](https://github.com/AhmedFerchich-i/fuel-route-optimizer)
 
 - **Resume Analyzer** — Automated resume screening using NLP and spaCy(work in progress).  
   [🔗 Repo Link](https://github.com/AhmedFerchich-i/ai-powered-resume-review-)
