@@ -8,7 +8,7 @@ I'm a passionate Python and JavaScript developer with a passion for backend deve
 - JavaScript, Node , React  , Angular
 - PostgreSQL, Prisma ORM , SQL Alchemy 
 - Docker, REST APIs  
-- Data Pipelines & Transformation
+- Data Pipelines & ETLs
 - Scripting & Automation   
 
 ## 📂 Selected Projects
