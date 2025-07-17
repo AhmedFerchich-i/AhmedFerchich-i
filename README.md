@@ -16,7 +16,7 @@ I'm a passionate Python and JavaScript developer with a passion for backend deve
   [🔗 Repo Link](https://github.com/AhmedFerchich-i/fuel-cost-optimizer)
 
 - **Resume Analyzer** — Automated resume screening using NLP and spaCy(work in progress).  
-  [Repo Link](https://github.com/AhmedFerchich-i/ai-powered-resume-review-)
+  [🔗 Repo Link](https://github.com/AhmedFerchich-i/ai-powered-resume-review-)
   
 - **Temperature Converter** — Angular app that converts between Celsius and  Fahrenheit .  
   [🔗 Repo Link](https://github.com/AhmedFerchich-i/temperature-converter-angular)
