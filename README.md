@@ -12,7 +12,7 @@ I'm a passionate Python and JavaScript developer with a passion for backend deve
 - Scripting & Automation   
 
 ## 📂 Selected Projects
-- **Fuel Cost Optimizer** — A full-stack route planner that calculates the cheapest refueling stops along a road trip using FastAPI and Leaflet.js.  
+- **Fuel Cost Optimizer** — A full-stack route planner that calculates the cheapest refueling stops along a road trip using Django Rest Framework and Leaflet.js.  
   [🔗 Repo Link](https://github.com/AhmedFerchich-i/fuel-cost-optimizer)
   
 - **Robust SFTP Transfer** — A fault-tolerant Python script for secure file uploads via SFTP, featuring auto-retry and reconnect logic.  
