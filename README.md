@@ -6,8 +6,9 @@ I'm a passionate Python and JavaScript developer with a passion for backend deve
 
 - Python, FastAPI, Flask  , Django , Django Rest Framework , Django Ninja Framework, Celery , Pandas , Numpy 
 - JavaScript, Node , React  , Angular
-- PostgreSQL, Prisma ORM , SQL Alchemy 
-- Docker, REST APIs  
+- PostgreSQL, Prisma ORM , SQL Alchemy
+- Full Stack web applications , REST APIs 
+- Docker, Git , CI/CD 
 - Data Pipelines , Data scraping & ETLs
 -  Python Scripting & Automation   
 
