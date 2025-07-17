@@ -8,8 +8,8 @@ I'm a passionate Python and JavaScript developer with a passion for backend deve
 - JavaScript, Node , React  , Angular
 - PostgreSQL, Prisma ORM , SQL Alchemy 
 - Docker, REST APIs  
-- Data Pipelines & ETLs
-- Scripting & Automation   
+- Data Pipelines , Data scraping & ETLs
+-  Python Scripting & Automation   
 
 ## 📂 Selected Projects
 - **Fuel Cost Optimizer** — A full-stack route planner that calculates the cheapest refueling stops along a road trip using Django Rest Framework and Leaflet.js.  
