@@ -13,6 +13,8 @@ I'm a passionate Python and JavaScript developer with a passion for full stack/b
 -  Python Scripting & Automation   
 
 ## 📂 Selected Projects
+- **Health Metrics Data Pipeline & Data Warehouse** — End-to-end data engineering project. Designed a star-schema data warehouse, built an ETL pipeline in Python with SQLAlchemy & Pandas, containerized PostgreSQL with Docker Compose, and performed EDA in JupyterLab.  
+  [🔗 Repo Link](https://github.com/AhmedFerchich-i/health-metrics-data-pipeline)
 - **Fuel Cost Optimizer** — A full-stack route planner that calculates the cheapest refueling stops along a road trip using Django Rest Framework and Leaflet.js.  
   [🔗 Repo Link](https://github.com/AhmedFerchich-i/fuel-route-optimizer)
 
